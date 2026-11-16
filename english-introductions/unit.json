@@ -1,0 +1,366 @@
+{
+ "slug": "english-introductions",
+ "title_ko": "A First Introduction",
+ "title_en": "ការណែនាំខ្លួនលើកដំបូង",
+ "subtitle": "A simple conversation from hello to goodbye. Change the sample name and country to yours.",
+ "description": "Practice a friendly greeting, a few easy questions, and a polite goodbye.",
+ "station_en": "Say hello, share one detail, ask a question, and end politely.",
+ "sections": [
+  {
+   "id": "hello",
+   "ko": "Hello",
+   "en": "សួស្តី",
+   "color": "#0052A4"
+  },
+  {
+   "id": "share",
+   "ko": "Share and ask",
+   "en": "ចែករំលែក និងសួរ",
+   "color": "#00A84D"
+  },
+  {
+   "id": "close",
+   "ko": "Close politely",
+   "en": "បញ្ចប់ដោយសុភាព",
+   "color": "#EF7C1C"
+  }
+ ],
+ "spine": {
+  "title": "One easy conversation",
+  "note": "Open with a greeting, share one detail, ask the other person, then close politely."
+ },
+ "explain": {
+  "title": "The big picture",
+  "why": "A first conversation has a simple rhythm: greet, introduce yourself, ask one question, and say goodbye.",
+  "tiles": [
+   {
+    "img": "img/c01-door.svg",
+    "ko": "Say hello",
+    "en": "ចាប់ផ្តើមដោយសួស្តី។",
+    "color": "#0052A4"
+   },
+   {
+    "img": "img/c02-name-tag.svg",
+    "ko": "Share your name",
+    "en": "ប្រាប់ឈ្មោះរបស់អ្នក។",
+    "color": "#0052A4"
+   },
+   {
+    "img": "img/c04-question.svg",
+    "ko": "Ask one question",
+    "en": "សួរសំណួរមួយ។",
+    "color": "#00A84D"
+   },
+   {
+    "img": "img/c05-map-pin.svg",
+    "ko": "Share one detail",
+    "en": "ចែករំលែកព័ត៌មានមួយ។",
+    "color": "#00A84D"
+   },
+   {
+    "img": "img/c08-chat.svg",
+    "ko": "Keep it friendly",
+    "en": "រក្សាការសន្ទនាឱ្យរួសរាយ។",
+    "color": "#00A84D"
+   },
+   {
+    "img": "img/c10-clock.svg",
+    "ko": "End politely",
+    "en": "បញ្ចប់ការសន្ទនាដោយសុភាព។",
+    "color": "#EF7C1C"
+   }
+  ]
+ },
+ "cards": [
+  {
+   "sec": "hello",
+   "img": "img/c01-door.svg",
+   "flat": true,
+   "alt": "An open door with a clear path inside",
+   "hook": "hello",
+   "ko": "Hello!",
+   "en": "សួស្តី!",
+   "audio": "audio/c01.mp3"
+  },
+  {
+   "sec": "hello",
+   "img": "img/c02-name-tag.svg",
+   "flat": true,
+   "alt": "A simple name tag labeled NAME",
+   "hook": "name",
+   "ko": "My name is Dara.",
+   "en": "ខ្ញុំឈ្មោះ ដារ៉ា។",
+   "audio": "audio/c02.mp3"
+  },
+  {
+   "sec": "hello",
+   "img": "img/c03-spark.svg",
+   "flat": true,
+   "alt": "A speech bubble with small star shapes",
+   "hook": "first meeting",
+   "ko": "Nice to meet you.",
+   "en": "រីករាយដែលបានជួបអ្នក។",
+   "audio": "audio/c03.mp3"
+  },
+  {
+   "sec": "share",
+   "img": "img/c04-question.svg",
+   "flat": true,
+   "alt": "A question mark inside a speech bubble",
+   "hook": "ask",
+   "ko": "Where are you from?",
+   "en": "តើអ្នកមកពីណា?",
+   "audio": "audio/c04.mp3"
+  },
+  {
+   "sec": "share",
+   "img": "img/c05-map-pin.svg",
+   "flat": true,
+   "alt": "A map with a location pin over Cambodia",
+   "hook": "country",
+   "ko": "I'm from Cambodia.",
+   "en": "ខ្ញុំមកពីប្រទេសកម្ពុជា។",
+   "audio": "audio/c05.mp3"
+  },
+  {
+   "sec": "share",
+   "img": "img/c06-question-card.svg",
+   "flat": true,
+   "alt": "A speech bubble asking a short question",
+   "hook": "hobby",
+   "ko": "What do you like to do?",
+   "en": "តើអ្នកចូលចិត្តធ្វើអ្វី?",
+   "audio": "audio/c06.mp3"
+  },
+  {
+   "sec": "share",
+   "img": "img/c07-book.svg",
+   "flat": true,
+   "alt": "An open book with a bookmark",
+   "hook": "reading",
+   "ko": "I like to read.",
+   "en": "ខ្ញុំចូលចិត្តអាន។",
+   "audio": "audio/c07.mp3"
+  },
+  {
+   "sec": "share",
+   "img": "img/c08-chat.svg",
+   "flat": true,
+   "alt": "Two speech bubbles facing one another",
+   "hook": "your turn",
+   "ko": "How about you?",
+   "en": "ចុះអ្នកវិញ?",
+   "audio": "audio/c08.mp3"
+  },
+  {
+   "sec": "close",
+   "img": "img/c09-cup.svg",
+   "flat": true,
+   "alt": "A warm cup with two lines of steam",
+   "hook": "friendly",
+   "ko": "It was nice talking with you.",
+   "en": "រីករាយដែលបាននិយាយជាមួយអ្នក។",
+   "audio": "audio/c09.mp3"
+  },
+  {
+   "sec": "close",
+   "img": "img/c10-clock.svg",
+   "flat": true,
+   "alt": "A clock with an arrow pointing forward",
+   "hook": "later",
+   "ko": "See you later!",
+   "en": "ជួបគ្នាពេលក្រោយ!",
+   "audio": "audio/c10.mp3"
+  }
+ ],
+ "qa_note": "Answer in your head first, then open the answer and listen.",
+ "qa_tab": {
+  "ko": "Questions",
+  "en": "សំណួរ និងចម្លើយ"
+ },
+ "qa": [
+  {
+   "title": "Common mix-ups",
+   "small": "Read these first",
+   "note": "Two phrases that are easy to confuse.",
+   "kind": "trap",
+   "items": [
+    {
+     "q": "Does 'What do you do?' ask what I am doing now?",
+     "qen": "តើ 'What do you do?' សួរថាខ្ញុំកំពុងធ្វើអ្វីឥឡូវនេះឬ?",
+     "qaudio": "audio/qt01.mp3",
+     "a": "Usually, no. It asks about your job or studies.",
+     "aen": "ជាទូទៅ មិនមែនទេ។ វាសួរអំពីការងារ ឬការសិក្សារបស់អ្នក។",
+     "why": "To ask about an activity happening now, say: 'What are you doing?'",
+     "audio": "audio/at01.mp3"
+    },
+    {
+     "q": "Are 'Nice to meet you' and 'Nice to see you' the same?",
+     "qen": "តើ 'Nice to meet you' និង 'Nice to see you' មានន័យដូចគ្នាឬ?",
+     "qaudio": "audio/qt02.mp3",
+     "a": "Use 'Nice to meet you' the first time. Use 'Nice to see you' with someone you already know.",
+     "aen": "ប្រើ 'Nice to meet you' ពេលជួបគ្នាលើកដំបូង។ ប្រើ 'Nice to see you' ជាមួយអ្នកដែលអ្នកស្គាល់រួចហើយ។",
+     "why": "Meet is for a first introduction; see is for meeting again.",
+     "audio": "audio/at02.mp3"
+    }
+   ]
+  },
+  {
+   "title": "Try a short answer",
+   "small": "Questions someone may ask",
+   "note": "The sample answers use Dara and Cambodia. Change them to fit you.",
+   "kind": "qa",
+   "items": [
+    {
+     "q": "What's your name?",
+     "qen": "តើអ្នកឈ្មោះអ្វី?",
+     "qaudio": "audio/qq01.mp3",
+     "a": "My name is Dara.",
+     "aen": "ខ្ញុំឈ្មោះ ដារ៉ា។",
+     "check": true,
+     "why": "Replace Dara with your name.",
+     "audio": "audio/aq01.mp3"
+    },
+    {
+     "q": "Where are you from?",
+     "qen": "តើអ្នកមកពីណា?",
+     "qaudio": "audio/qq02.mp3",
+     "a": "I'm from Cambodia.",
+     "aen": "ខ្ញុំមកពីប្រទេសកម្ពុជា។",
+     "check": true,
+     "why": "Replace Cambodia with your country.",
+     "audio": "audio/aq02.mp3"
+    },
+    {
+     "q": "What do you like to do?",
+     "qen": "តើអ្នកចូលចិត្តធ្វើអ្វី?",
+     "qaudio": "audio/qq03.mp3",
+     "a": "I like to read.",
+     "aen": "ខ្ញុំចូលចិត្តអាន។",
+     "check": true,
+     "why": "You can replace reading with a hobby you enjoy.",
+     "audio": "audio/aq03.mp3"
+    },
+    {
+     "q": "How can I end a friendly conversation?",
+     "qen": "តើខ្ញុំអាចបញ្ចប់ការសន្ទនារួសរាយដោយរបៀបណា?",
+     "qaudio": "audio/qq04.mp3",
+     "a": "It was nice talking with you. See you later!",
+     "aen": "រីករាយដែលបាននិយាយជាមួយអ្នក។ ជួបគ្នាពេលក្រោយ!",
+     "audio": "audio/aq04.mp3"
+    }
+   ]
+  },
+  {
+   "title": "If you get stuck",
+   "small": "A couple of useful lines",
+   "note": "Take your time and ask for help politely.",
+   "kind": "surv",
+   "items": [
+    {
+     "ko": "Sorry, could you say that again, please?",
+     "en": "សុំទោស តើអ្នកអាចនិយាយម្ដងទៀតបានទេ?",
+     "audio": "audio/s01.mp3"
+    },
+    {
+     "ko": "I'm still learning English.",
+     "en": "ខ្ញុំនៅកំពុងរៀនភាសាអង់គ្លេសនៅឡើយ។",
+     "audio": "audio/s02.mp3"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "title": "Meeting someone",
+   "color": "#0052A4",
+   "items": [
+    {
+     "ko": "hello",
+     "en": "សួស្តី",
+     "audio": "audio/v01.mp3"
+    },
+    {
+     "ko": "name",
+     "en": "ឈ្មោះ",
+     "audio": "audio/v02.mp3"
+    },
+    {
+     "ko": "meet",
+     "en": "ជួប",
+     "audio": "audio/v03.mp3"
+    },
+    {
+     "ko": "from",
+     "en": "មកពី",
+     "audio": "audio/v04.mp3"
+    },
+    {
+     "ko": "country",
+     "en": "ប្រទេស",
+     "audio": "audio/v05.mp3"
+    },
+    {
+     "ko": "you",
+     "en": "អ្នក",
+     "audio": "audio/v06.mp3"
+    }
+   ]
+  },
+  {
+   "title": "Keeping the conversation going",
+   "color": "#00A84D",
+   "items": [
+    {
+     "ko": "like",
+     "en": "ចូលចិត្ត",
+     "audio": "audio/v07.mp3"
+    },
+    {
+     "ko": "read",
+     "en": "អាន",
+     "audio": "audio/v08.mp3"
+    },
+    {
+     "ko": "question",
+     "en": "សំណួរ",
+     "audio": "audio/v09.mp3"
+    },
+    {
+     "ko": "please",
+     "en": "សូម",
+     "audio": "audio/v10.mp3"
+    },
+    {
+     "ko": "again",
+     "en": "ម្ដងទៀត",
+     "audio": "audio/v11.mp3"
+    },
+    {
+     "ko": "later",
+     "en": "ពេលក្រោយ",
+     "audio": "audio/v12.mp3"
+    }
+   ]
+  }
+ ],
+ "full_title": "A first introduction · ការណែនាំខ្លួនលើកដំបូង",
+ "full": [
+  {
+   "title": "Hello · សួស្តី",
+   "ko": "Hello! My name is Dara. Nice to meet you.",
+   "en": "សួស្តី! ខ្ញុំឈ្មោះ ដារ៉ា។ រីករាយដែលបានជួបអ្នក។"
+  },
+  {
+   "title": "Share and ask · ចែករំលែក និងសួរ",
+   "ko": "Where are you from? I'm from Cambodia. What do you like to do? I like to read. How about you?",
+   "en": "តើអ្នកមកពីណា? ខ្ញុំមកពីប្រទេសកម្ពុជា។ តើអ្នកចូលចិត្តធ្វើអ្វី? ខ្ញុំចូលចិត្តអាន។ ចុះអ្នកវិញ?"
+  },
+  {
+   "title": "Close politely · បញ្ចប់ដោយសុភាព",
+   "ko": "It was nice talking with you. See you later!",
+   "en": "រីករាយដែលបាននិយាយជាមួយអ្នក។ ជួបគ្នាពេលក្រោយ!"
+  }
+ ],
+ "published": "2026-11-16"
+}
